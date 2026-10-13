@@ -1,5 +1,5 @@
 USTH Advanced Programming with Python 2026
 ==================================
 
-* Your name here
-* Your ID here
+* Name: Đàm Khôi Nguyên 
+* StudentID: 2510796
